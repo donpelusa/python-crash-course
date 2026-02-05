@@ -1,0 +1,212 @@
+00:16:54	JORGE IGNACIO SANCHEZ LEPE 19091914517:	la clases serán los días martes y viernes ?
+00:17:03	Isaac Eliezer Flores Henríquez:	disculpe el enlace al canal de discord? no ingrese a tiempo
+00:17:03	Ricardo Díaz González:	¿Cuál es el link de discord?
+00:17:06	Hernán José Romero:	Me puedes compartir el link del Discord
+00:17:11	Verónica Bonsignore:	Buenos Días ! Podrías enviar el enlace de Discord
+00:17:17	Hernán José Romero:	No funciona el del correo, gracias!
+00:17:24	Mauricio Bravo Fuentes:	https://discord.gg/89xYKyYH
+00:17:36	Martín Miadosqui:	Buen día, soy Martín, programador Backend orientado principalmente en C# / .Net
+00:18:29	Alejandro Ortiz:	Buen día Mauricio
+00:18:35	Martín Miadosqui:	Actualmente estoy sin empleo y me inscribí al curso para ampliar mis posibilidades de reingreso al mercado laboral
+00:19:09	Romina Bastreri:	Yo soy Romina de BS AS terminé un bootcamp de QA y estoy queriendo aprender más de Python gracias!!
+00:20:18	Verónica Bonsignore:	Hola, Soy Verónica Bonsignore. De programación prácticamente a cero , vi algo de Python hace un par de años pero sin prácticarlo.
+00:20:20	Sebastian Pava:	Mucho gusto, mi nombre es Sebastián Alexander, soy desarrollador y trabajo principalmente con JavaScript, ahora me gustaría enfocarme en desarrollo con Python para entrar al desarrollo de algoritmos evolutivos
+00:21:01	kyowd:	Buen día, mi nombre es yago soy desarrollador Backend PHP, me gusta Python por su versatilidad
+00:21:35	Esteban:	hola soy Esteban estoy estudiando la ingeniera y me sentí un poco débil en python y me gustaria mejorar
+00:21:46	Romina Bastreri:	Reacted to "https://discord.gg/8..." with 👍
+00:21:52	Sebastian Pava:	Excelente
+00:22:09	Luciano Aliaga:	buenos días, yo soy Luciano Aliaga, estudiante de analista programador, soy del sur de chile, me he enfocado en desarrollo web y me gusta Python desde el principio de mi carrera gracias a un buen profesor
+00:22:17	Gero Ibarra:	Como encuentro ese curso de tu compañero?
+00:22:40	Mauricio Bravo Fuentes:	https://career.softserveinc.com/en-us/softserve-academy-chile
+00:22:53	Gero Ibarra:	Muchas Gracias
+00:22:57	Esmirna Bahamóndez:	Buenos días, soy ingeniera civil en informática y docente de la enseñanza superior,egresada el año pasado de la UBB en Chillán
+00:23:05	ANDRES VIERA - ECUADOR:	Buenos dias
+00:23:15	Patricio:	Participé en dos bootcamps de QA, uno manual y otro de automatizacion con python, selenium y cucumber.
+00:23:30	Fabian Parra:	Hola soy Fabian Parra y soy Trabajador Social, así que de TI, mucho de usuario pero de programación muy muy poco, y me quiero ahora enfocar en algo que cada día se necesita mas en el mundo.
+00:23:57	David sanzana palma:	Soy David, titulado de la UBB hace poco al igual que el curso de Vue, tome el Python y el de IA, por mientras que encuentro trabajo, me gustaria hacer carrera en Ia o la Ciencia de datos
+00:24:51	ANDRES VIERA - ECUADOR:	Buenos días soy Andres Ingeniero en Informatica, trabajo en el area de desarrollo de software y ahora quiero entrar con python e IA
+00:25:10	JORGE IGNACIO SANCHEZ LEPE 19091914517:	yo soy estudiante de ultimo año de Ing. civil mecánica de Temuco, y no se nada de Python  y me interesa aprender a programar como alternativa laboral
+00:25:52	JORGE IGNACIO SANCHEZ LEPE 19091914517:	en mi universidad ocupaban mas matlab
+00:26:01	Mauricio Andrade:	Buenos días a todos, soy Mauricio Andrade, Ingeniero de Software hace más de 10 años, con ganas de aprender Python para ampliar mis oportunidades laborales. Soy de Chillan, Chile.
+00:26:27	Sebastian Pava:	Suena bastante interesante también ver Python orientado a la web, he usado por encima de forma básica Python con el framework Django, pero necesito reforzar mis bases del lenguaje
+00:27:26	Ignacio Sepúlveda:	Buenos días, soy Ingeniero en informática titulado y tomé estos cursos de Python y Vue mientras encuentro trabajo, ya que me siento débil en el área de programación.
+00:28:01	Sebastian Pava:	Todavía podemos inscribirnos en los otros cursos también?
+00:28:43	Ignacio Sepúlveda:	llegue tarde, disculpe, mandaron el link de ds?
+00:29:15	Mauricio Bravo Fuentes:	https://discord.gg/89xYKyYH
+00:29:16	Felipe Almendras:	Consulta: va a haber algun forma de evaluación??
+00:31:30	kyowd:	si
+00:38:55	Valentina:	indentación
+00:44:56	Martín Miadosqui:	Dato de color, se llama Python por el grupo de comedia inglés Monty Python
+00:45:34	Fabian Parra:	Monty Python y el chiste mas mortal del mundo
+00:47:14	Rubén Franco:	yo
+00:47:26	Mauricio Bravo Fuentes:	Download Python | Python.org
+00:47:36	DIEGO CALDERA:	prof para este curso se puede usar un compilador de Python online?
+00:47:39	Felipe Almendras:	Reacted to Monty Python y el ch... with "😂"
+00:47:55	Rafael Colomé:	Un pequeño comentario, el enlace al grupo de Discord parace estar caido, espero no ser el unico.
+00:48:16	Felipe Almendras:	Podrían enviar de nuevo los links de los cursos y del canal de Discord, por favor??
+00:48:26	Mauricio Bravo Fuentes:	https://career.softserveinc.com/en-us/softserve-academy-chile
+00:48:44	Mauricio Bravo Fuentes:	https://discord.gg/89xYKyYH Discord
+00:49:07	Felipe Almendras:	Gracias
+00:49:44	Hernán José Romero:	En Windows se puede descargar a través de Microsoft Store
+00:51:20	Sebastian Pava:	Pregunta, se suben los videos de las clases? Para los otros cursos que recién me inscribí que ya comenzaron también me imagino
+00:51:27	Leonor Cordero:	Hola
+Recién me pude conectar. Se podrá ver la grabación?
+00:52:25	Fernanda Acuña:	Instalado
+00:53:01	Ignacio Sepúlveda:	que pasa si se instala Python directamente sin el package manager?
+00:53:40	felipe morales:	"hello world"
+00:54:24	felipe morales:	consejo, cuando instalen algo háganlo por consola.
+00:55:12	Verónica Bonsignore:	Cual comando ? Me perdí...
+00:55:18	Mauricio Bravo Fuentes:	python
+00:55:33	Verónica Bonsignore:	Reacted to "python" with 👍
+00:55:47	Bruno L.:	Cuando uno instala Node parece que se autoinstala Python
+00:56:04	Andrea:	yo tenia node pero no tenia python
+00:56:15	JORGE IGNACIO SANCHEZ LEPE 19091914517:	puedo ocupar VS para este curso
+00:56:33	Verónica Bonsignore:	Yo
+00:56:46	Fernanda Acuña:	Com puedo buscar Python en la consola de Mac?
+00:57:03	Pablo Sari:	Pycharm que tan bueno es?
+00:57:35	Romina Bastreri:	Reacted to "Pycharm que tan buen..." with 😃
+00:57:39	carlos:	pycharm es muy bueno, pero solo esta especializado en pyton yo lo use mucho antes de pasar a vscode ya que usaba multiples lenguajes
+00:57:40	felipe morales:	Replying to "Com puedo buscar Pyt..."
+
+pone python --version
+00:57:44	felipe morales:	Replying to "Com puedo buscar Pyt..."
+
+y ve que sale
+00:57:50	Jessica Manturano:	en mac en la terminal poner esto para ver si tienes phython 
+
+python3 --version
+00:57:53	Mauricio Bravo Fuentes:	powershell
+00:58:08	Hernán José Romero:	Replying to "Com puedo buscar Pyt..."
+
+Si no lo tienes, puedes instalarlo con "brew"
+00:58:11	Jessica Manturano:	Respondiendo a "Com puedo buscar P..."
+
+python3 --version
+00:58:30	Rodrigo:	Cual editor recomiendas utilizar para este curso?
+00:58:44	Fernanda Acuña:	Replying to "Com puedo buscar Pyt..."
+
+oSea, y lo instalé, pero quiero saber como revisarlo y que se vea en mi consola jeje
+00:58:44	Mauricio Bravo Fuentes:	exit()
+00:58:50	Rubén Franco:	Se instala Python a veces cuando se instala el Visual Studio, da opción de instalar Python. cierto?
+00:59:54	JORGE IGNACIO SANCHEZ LEPE 19091914517:	como lo puedo usar en VS
+01:00:04	Fernanda Acuña:	Replying to "Com puedo buscar Pyt..."
+
+@Jessica Manturano muchas grracias! Ahi se ve 😄
+01:00:22	Jessica Manturano:	Se ha reaccionado a "@Jessica Manturano..." con 🎉
+01:01:20	Hernán José Romero:	Replying to "Se instala Python a ..."
+
+Si, el Visual Studio tiene la opción de "Desarrollo de Python", la cual incluye todo lo necesario para trabajar
+01:01:31	Hernán José Romero:	Replying to "como lo puedo usar e..."
+
+En el VS o VSC ?
+01:01:31	Mauricio Bravo Fuentes:	https://discord.gg/dN5ASS7f
+01:05:47	Mauricio Bravo Fuentes:	Download Visual Studio Code - Mac, Linux, Windows
+01:06:27	Bruno L.:	Mauricio, alguna razón para no usar vs code?
+01:07:12	Felipe Almendras:	Spyder ide es una buena opción??
+01:07:19	Jessica Manturano:	PyCharm  es solo para JetBrains, cierto ? no hay para vs code ?👀
+01:07:31	Verónica Bonsignore:	Yo lo tengo instalado a VS pero como puedo chequear que tenga las librerías o lo necesario en Python ?
+01:07:45	Verónica Bonsignore:	O si tiene los compiladores
+01:08:10	Verónica Bonsignore:	Bien , gracias!
+01:08:59	Pablo Sari:	Anaconda es conveniente?
+01:09:36	Felipe Ignacio Castillo Carcamo:	El chocolate blanco es mejor que el negro? 😅
+01:10:23	Hernán José Romero:	Replying to "Anaconda es convenie..."
+
+Si, más aún si tienes exp previa
+01:16:09	Ignacio Sepúlveda:	profe, disculpe, me tengo que retirar
+01:16:18	Ignacio Sepúlveda:	que días son las clases??
+01:16:41	Ignacio Sepúlveda:	ya profe gracias
+01:20:57	Bruno L.:	No me sale el icono
+01:21:15	Fernanda Acuña:	Tampoco me sale
+01:21:17	JORGE IGNACIO SANCHEZ LEPE 19091914517:	a mi  me aparece estp
+01:21:19	Andrea:	no sale normalmente
+01:21:20	JORGE IGNACIO SANCHEZ LEPE 19091914517:	An Invalid Python interpreter is selected, please try changing it to enable features such as IntelliSense, linting, and debugging. See output for more details regarding why the interpreter is invalid.
+01:21:22	Hernán José Romero:	Ya descargaste las extensiones de Python en el VSC ?
+01:21:25	Bruno L.:	Tal vez es un plugin
+01:21:25	Andrea:	es cuando instalas una extension
+01:21:31	Andrea:	yo instale para java hace dos días y se me activo
+01:22:21	Bruno L.:	Si es la extension de Python
+01:22:26	Bruno L.:	A mi ahora me aparece
+01:22:52	Felipe Ignacio Castillo Carcamo:	Cuál es la extensión que usan? No es Pylance?
+01:22:59	Felipe Ignacio Castillo Carcamo:	Ok
+01:23:43	Rubén Franco:	https://marketplace.visualstudio.com/items?itemName=ms-python.python
+01:25:06	Verónica Bonsignore:	Yo , Puedo compartir
+01:26:09	Verónica Bonsignore:	Gracias !
+01:28:35	Victor Ignacio Carrera Gutierrez:	comentario # de una linea
+01:28:46	Victor Ignacio Carrera Gutierrez:	comentario de varias líneas '''
+01:30:10	Victor Ignacio Carrera Gutierrez:	o para cualquiera ue necesite leer nuestro codigo
+01:31:20	David sanzana palma:	Con permiso debo retirame, hasta luego
+01:32:01	Esteban:	es por qué la función no está terminada no?
+01:33:14	Sebastian Pava:	En Python se ordena el código mayoritariamente por indentaciones
+01:34:23	Sebastian Pava:	Debe llamarse la función
+01:34:25	Felipe Ignacio Castillo Carcamo:	Creo que tiene que ver con el uso del ":", yo tengo entendido que si aplica una instrucción para simplificarlo, sino tendrá que usarse "{...}"
+01:35:39	kyowd:	si
+01:35:42	Felipe Ignacio Castillo Carcamo:	Si
+01:35:45	Sebastian Pava:	Genial! Eso no lo sabía
+01:36:39	Fernanda Acuña:	Como hizo para que se hiciera la indentacion?
+01:36:42	Jorge Magana:	Los comentarios sobre la funcion se generaron automaticamente?
+01:36:46	Verónica Bonsignore:	No importa el orden en el que ponga el print o def ?
+01:39:05	Samsung SM-A356E:	La clase va a quedar grabada?
+01:39:37	Samsung SM-A356E:	Replying to "[Full message cannot be displayed on this version]" 
+
+ Y la invitación para poder unirme a discord?
+01:40:36	Samsung SM-A356E:	Cuál es el canal de discord?
+01:41:11	Rafael Colomé:	O muestre en que linea es :P
+01:41:11	Mauricio Bravo Fuentes:	https://discord.gg/dN5ASS7f
+01:45:20	Par05-Cristopher Ordoñez M:	puedo trabajar en colab?
+01:46:01	Hernán José Romero:	El autocompletado se puede deshabilitar en el icono de Copilot
+01:48:00	kyowd:	no, por el momento genial
+01:48:02	Par05-Cristopher Ordoñez M:	las clases son grabadas?
+01:48:09	Felipe Ignacio Castillo Carcamo:	Me da un poquito de nervios que no está el punto y coma
+01:48:14	Hernán José Romero:	Reacted to "Me da un poquito de ..." with 😂
+01:48:16	Felipe Ignacio Castillo Carcamo:	Jeje
+01:48:18	Jorge Magana:	Los comentarios sobre la funcion se generaron automaticamente por la ia (los comentarios de una linea) y esos sirven como documentacion dentro del codigo?
+01:48:29	Rubén Franco:	Reacted to "Me da un poquito de ..." with 😂
+01:48:47	Valentina:	Replying to "Me da un poquito d..."
+
+sí y que sea todo abierto sin {}
+01:51:09	carlos:	https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens esta extencion pone el error en la misma linea para no tener el mause encima para saber el error especifico, lo deje en el chat general de discord
+01:51:13	felipe morales:	manda pantallazo mejor xD
+01:52:13	Jorge Magana:	a mi me parecio algo parecido (me decia que no estaba definido) pero es porque ejecute con shift+enter y eso ejecuta solo la linea, nose si será lo mismo
+01:52:14	Lucas Molina:	sube el print
+01:52:28	Sebastian Pava:	No existe la variable nombre_usuario fuera de la función
+01:54:13	kyowd:	si
+01:54:14	felipe morales:	me mandan el link  de discord porfa
+01:54:27	Felipe Almendras:	Si
+01:54:47	Mauricio Bravo Fuentes:	https://discord.gg/AWY446KB
+01:56:20	Luciano Aliaga:	sii
+01:56:25	kyowd:	si
+01:56:44	Valentina:	puede dejar la tarea por escrito?
+01:57:02	Verónica Bonsignore:	Las clases Martes y Jueves a las 10 am Chile ?
+01:57:02	Par05-Cristopher Ordoñez M:	las clases serán grabadas?
+01:57:02	Felipe Almendras:	👍
+01:57:02	Nicolas Cedeño:	Podrias dejar el enunciado en discord?
+01:57:42	Par05-Cristopher Ordoñez M:	Soy de Ecuador y pensé que era a las 10 de acá y recién me conecte
+01:57:50	Hernán José Romero:	Reacted to "Soy de Ecuador y pen..." with 😂
+01:58:03	Par05-Cristopher Ordoñez M:	Reacted to "Soy de Ecuador y pen..." with 😂
+01:58:21	Mauricio Bravo Fuentes:	https://discord.gg/AWY446KB
+01:58:24	Felipe Ignacio Castillo Carcamo:	Reacted to Soy de Ecuador y pen... with "😂"
+01:58:28	Par05-Cristopher Ordoñez M:	ya me uno
+01:59:07	Par05-Cristopher Ordoñez M:	duran dos horas?
+01:59:16	Par05-Cristopher Ordoñez M:	listo
+01:59:24	Par05-Cristopher Ordoñez M:	de 8 a 10 hora Ecuador
+01:59:27	Victor Ignacio Carrera Gutierrez:	todo muy claro
+01:59:49	Daniel T.:	Reacted to "Soy de Ecuador y pen..." with 😂
+02:00:07	Verónica Bonsignore:	Muchas Gracias por la ayuda , ya que estoy empezando y me sentí muy cómoda ..
+02:00:52	Par05-Cristopher Ordoñez M:	solo la duda si esta clase no es grabada  o donde la puedo volver a ver
+02:01:12	Par05-Cristopher Ordoñez M:	mil gracias
+02:01:28	Par05-Cristopher Ordoñez M:	Mauricio
+02:01:35	Felipe Almendras:	Muchas gracias
+02:02:46	Par05-Cristopher Ordoñez M:	grcias
+02:02:51	Benjamín Cerda:	gracias!!
+02:02:52	Jessica Manturano:	Muchas gracias Profe 👍
+02:02:53	Bruno L.:	Gracias Profe, un grande
+02:02:53	felipe morales:	ok hasta luego
+02:02:54	Silvio Guillen Matos:	Gracias!
+02:02:58	Mauricio Gallardo:	gracias
+02:03:01	Valentina:	muchas gracias!
+02:03:02	Constanza Venegas:	gracias por la clase, nos vemos!
+02:03:05	Alber:	gracias nos vemos
+02:03:06	Benjamín Cerda:	buen diaa
+02:03:07	Martín Miadosqui:	Gracias! Nos vemos  el jueves!
+02:03:07	Fabian Parra:	chao nos vemos
+02:03:10	Esteban:	chao profe nos vemos el jueves
